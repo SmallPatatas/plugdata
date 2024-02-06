@@ -13,10 +13,11 @@ select a key + mode + chord voicing + chord extension and play notes in that ran
 to borrow chords from another mode of the selected tonic, press the corresponding 'borrow' button before playing a chord.
 
 'play' range is midi notes 60-83. 
-assign the most recently played 'test' chord by clicking one of the toggles above/below the keyboard on the bottom left.
+assign the most recently played 'test' chord to a note in the play range by clicking one of the toggles above/below the keyboard on the bottom left.
 
 Possible Future Features:
 - save presets
-- midi control of voicing/extension knobs
+- midi control of voicing/extension knobs (and borrow buttons?)
 - 'bebop scale' block chords
 - harmonic minor modes
+- display altered notes of chord, as well as maj/min/dim
