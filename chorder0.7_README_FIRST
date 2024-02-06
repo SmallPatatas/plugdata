@@ -1,0 +1,22 @@
+****************************************************************
+******                        WARNING:                    ******
+****** Will crash plugdata 0.8.3, cause currently unknown ******
+****************************************************************
+
+chorder 0.7
+Working in plugdata 0.8.2
+
+To use:
+
+'test' range is midi notes 36-59. 
+select a key + mode + chord voicing + chord extension and play notes in that range.
+to borrow chords from another mode of the selected tonic, press the corresponding 'borrow' button before playing a chord.
+
+'play' range is midi notes 60-83. 
+assign the most recently played 'test' chord by clicking one of the toggles above/below the keyboard on the bottom left.
+
+Possible Future Features:
+- save presets
+- midi control of voicing/extension knobs
+- 'bebop scale' block chords
+- harmonic minor modes
